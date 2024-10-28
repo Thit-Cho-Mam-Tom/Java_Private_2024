@@ -14,7 +14,7 @@ public class Bai_3 {
             if(a[i]>maxx1)
             {
                 maxx2 = maxx1;
-                maxx1 = a[i];
+                 maxx1 = a[i];
             }
             else if(a[i] > maxx2)
             {

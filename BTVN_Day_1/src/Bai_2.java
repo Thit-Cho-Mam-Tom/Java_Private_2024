@@ -6,10 +6,9 @@ public class Bai_2 {
         Scanner sc = new Scanner(System.in);
         long a = sc.nextLong();
         long ans = 1;
-        while(a > 0)
-        {
-            ans *= a%10;
-            a/=10;
+        while (a > 0) {
+            ans *= a % 10;
+            a /= 10;
         }
         System.out.println(ans);
     }
