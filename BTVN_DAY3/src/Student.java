@@ -1,73 +1,70 @@
-public class Student {
-    protected String StudentCode;
-    protected String FullName;
-    protected Byte age;
-    protected String gender;
-    protected String phoneNumber;
-    protected String email;
-    public Student(){
+import java.util.Scanner;
 
+public class Student {
+    // Thuộc tính
+    private String studentCode;
+    private String fullName;
+    private int age;
+    private String phoneNumber;
+    private String email;
+
+    // Phương thức khởi tạo không tham số
+    public Student() {
     }
-    public Student(String studentCode, String fullName, Byte age, String gender, String phoneNumber, String email) {
-        this.StudentCode = studentCode;
-        this.FullName = fullName;
+
+    // Phương thức khởi tạo đầy đủ tham số
+    public Student(String studentCode, String fullName, int age, String phoneNumber, String email) {
+        this.studentCode = studentCode;
+        this.fullName = fullName;
         this.age = age;
-        this.gender = gender;
         this.phoneNumber = phoneNumber;
         this.email = email;
     }
 
+    // Getters và Setters cho các thuộc tính
     public String getStudentCode() {
-        return StudentCode;
+        return studentCode;
+    }
+
+    public void setStudentCode(String studentCode) {
+        this.studentCode = studentCode;
     }
 
     public String getFullName() {
-        return FullName;
+        return fullName;
     }
 
-    public Byte getAge() {
+    public void setFullName(String fullName) {
+        this.fullName = fullName;
+    }
+
+    public int getAge() {
         return age;
     }
 
-    public String getGender() {
-        return gender;
+    public void setAge(int age) {
+        this.age = age;
     }
 
     public String getPhoneNumber() {
         return phoneNumber;
     }
 
-    public String getEmail() {
-        return email;
-    }
-
-    public void setStudentCode(String studentCode) {
-        StudentCode = studentCode;
-    }
-
-    public void setFullName(String fullName) {
-        FullName = fullName;
-    }
-
-    public void setAge(Byte age) {
-        this.age = age;
-    }
-
-    public void setGender(String gender) {
-        this.gender = gender;
-    }
-
     public void setPhoneNumber(String phoneNumber) {
         this.phoneNumber = phoneNumber;
+    }
+
+    public String getEmail() {
+        return email;
     }
 
     public void setEmail(String email) {
         this.email = email;
     }
+
+    // Phương thức display(): in ra thông tin sinh viên dạng bảng
     public void display() {
-        System.out.printf("%-15s %-30s %-5s %-10s %-15s %-30s%n",
-                "Mã sinh viên", "Họ và tên", "Tuổi", "Giới tính", "Số điện thoại", "Email");
-        System.out.printf("%-15s %-30s %-5d %-10s %-15s %-30s%n",
-                StudentCode, FullName, age, gender, phoneNumber, email);
+        System.out.printf("| %-12s | %-20s | %-3d | %-12s | %-25s |\n",
+                studentCode, fullName, age, phoneNumber, email);
     }
 }

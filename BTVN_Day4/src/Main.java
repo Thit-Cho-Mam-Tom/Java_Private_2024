@@ -5,13 +5,14 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+        TacGia tg = new TacGia();
         ArrayList<Book> books = new ArrayList<>();
 
-        books.add(new Book(3243432, "aaa", "bbb", 2004, "hhh", 50));
-        books.add(new Book(24432, "dsfds", "hsss", 2222, "lll", 100));
-        books.add(new Book(654654, "kkk", "sss", 1000, "nnn", 10));
-        books.add(new Book(876875, "ooo", "jjj", 2444, "ppp", 20));
-        books.add(new Book(21121, "avf", "rrrr", 463634, "mmm", 90));
+        books.add(new Book(3243432, "aaa", new TacGia("bbb"), 2004, "hhh", 50));
+        books.add(new Book(24432, "dsfds",new TacGia("bbb") , 2222, "lll", 100));
+        books.add(new Book(654654, "kkk", new TacGia("bbb"), 1000, "nnn", 10));
+        books.add(new Book(876875, "ooo", new TacGia("bbb"), 2444, "ppp", 20));
+        books.add(new Book(21121, "avf", new TacGia("bbb"), 463634, "mmm", 90));
         while (true) {
             System.out.println("------MENU-----");
             System.out.println("1.thêm sách mới");
@@ -69,7 +70,7 @@ public class Main {
             System.out.println("nhập giá tiền");
            double giaTien = sc.nextDouble();
            sc.nextLine();
-            Book newBook = new Book(maSach,tenSach,tenTacGia,namSanXuat,tomTatNoiDung,giaTien);
+            Book newBook = new Book(maSach,tenSach,new TacGia(sc.nextLine()),namSanXuat,tomTatNoiDung,giaTien);
             books.add(newBook);
             System.out.println("đã thêm thành công");
         }
@@ -82,7 +83,7 @@ public class Main {
                     System.out.println("nhập tên sách mới");
                     b.setTenSach(sc.nextLine());
                     System.out.println("nhập tên tác giả mới");
-                    b.setTenTacGia(sc.nextLine());
+                    b.setTacGia(new TacGia(sc.nextLine()));
                     System.out.println("nhập năm sản xuất mới");
                     b.setNamSanXuat(sc.nextInt());
                     sc.nextLine();

@@ -1,14 +1,16 @@
 public class Book {
-    private int maSach;
-    private String tenSach;
-    private String tenTacGia;
-    private int namSanXuat;
-    private String tomTatNoiDung;
-    private double giaTien;
+    protected int maSach;
+    protected String tenSach;
+    protected TacGia tenTacGia;
+    protected int namSanXuat;
+    protected String tomTatNoiDung;
+    protected double giaTien;
+
     public Book(){
 
     }
-    public Book(int maSach, String tenSach, String tenTacGia, int namSanXuat, String tomTatNoiDung, double giaTien) {
+
+    public Book(int maSach, String tenSach, TacGia tenTacGia, int namSanXuat, String tomTatNoiDung, double giaTien) {
         this.maSach = maSach;
         this.tenSach = tenSach;
         this.tenTacGia = tenTacGia;
@@ -16,6 +18,7 @@ public class Book {
         this.tomTatNoiDung = tomTatNoiDung;
         this.giaTien = giaTien;
     }
+
 
     public int getMaSach() {
         return maSach;
@@ -33,13 +36,10 @@ public class Book {
         this.tenSach = tenSach;
     }
 
-    public String getTenTacGia() {
+    public TacGia getTenTacGia() {
         return tenTacGia;
     }
 
-    public void setTenTacGia(String tenTacGia) {
-        this.tenTacGia = tenTacGia;
-    }
 
     public int getNamSanXuat() {
         return namSanXuat;
@@ -78,5 +78,9 @@ public class Book {
     }
     public void Display(){
         System.out.println(toString());
+    }
+
+    public void setTacGia(TacGia tacGia) {
+        this.tenTacGia = tacGia;
     }
 }
