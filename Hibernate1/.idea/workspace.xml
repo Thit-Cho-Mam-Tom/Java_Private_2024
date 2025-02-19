@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3c38f78c-1dc0-4d50-936f-6023b016ad94" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../BaiTap2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaiTap2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaiTap2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaiTap2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaiTap2/BaiTap2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaiTap2/out/production/BaiTap2/MayTinhBoTui.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaiTap2/out/production/BaiTap2/MayTinhCasio580.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaiTap2/out/production/BaiTap2/MayTinhVinacal500.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaiTap2/out/production/BaiTap2/SapXepChen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaiTap2/out/production/BaiTap2/SapXepChon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaiTap2/out/production/BaiTap2/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaiTap2/out/production/BaiTap2/XapXep.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaiTap2/src/MayTinhBoTui.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaiTap2/src/MayTinhCasio580.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaiTap2/src/MayTinhVinacal500.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaiTap2/src/SapXepChen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaiTap2/src/SapXepChon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaiTap2/src/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaiTap2/src/XapXep.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai_test2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai_test2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai_test2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai_test2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai_test2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai_test2/Bai_test2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai_test2/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai_test2/src/model/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai_test2/src/model/Address.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai_test2/src/model/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai_test2/src/model/Role.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai_test2/src/model/Status.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai_test2/src/service/AccountService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai_test2/src/service/AccountServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai_test2/src/service/AuthService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai_test2/src/service/AuthServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LuyenTap6/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LuyenTap6/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LuyenTap6/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LuyenTap6/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LuyenTap6/LuyenTap6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LuyenTap6/out/production/LuyenTap6/GVCoHuu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LuyenTap6/out/production/LuyenTap6/GVThinhGiang.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LuyenTap6/out/production/LuyenTap6/GVThinhGiangimpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LuyenTap6/out/production/LuyenTap6/GiangVien.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LuyenTap6/out/production/LuyenTap6/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LuyenTap6/src/GVCoHuu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LuyenTap6/src/GVThinhGiang.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LuyenTap6/src/GVThinhGiangimpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LuyenTap6/src/GiangVien.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LuyenTap6/src/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Luyentap/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Luyentap/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Luyentap/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Luyentap/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Luyentap/Luyentap.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Luyentap/out/production/Luyentap/Cricle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Luyentap/out/production/Luyentap/GeometriObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Luyentap/out/production/Luyentap/Resizable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Luyentap/out/production/Luyentap/ResizableCircle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Luyentap/out/production/Luyentap/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Luyentap/src/Cricle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Luyentap/src/GeometriObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Luyentap/src/Resizable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Luyentap/src/ResizableCircle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Luyentap/src/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Luyentap5/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Luyentap5/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Luyentap5/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Luyentap5/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Luyentap5/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Luyentap5/Luyentap5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Luyentap5/out/production/Luyentap5/Nguoi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Luyentap5/out/production/Luyentap5/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Luyentap5/out/production/Luyentap5/sinhVienCDCQ.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Luyentap5/out/production/Luyentap5/sinhVienCDN.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Luyentap5/src/Nguoi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Luyentap5/src/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Luyentap5/src/sinhVienCDCQ.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Luyentap5/src/sinhVienCDN.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ONTAP/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ONTAP/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ONTAP/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ONTAP/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ONTAP/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ONTAP/ONTAP.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ONTAP/src/Model/PhysicalProduct.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ONTAP/src/Model/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ONTAP/src/Model/Role.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ONTAP/src/Model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ONTAP/src/Service/IProductManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ONTAP/src/Service/Iuser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ONTAP/src/Service/impl/IuserImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ONTAP/src/Service/impl/ProductManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ONTAP/src/TEST.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OnnTap/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OnnTap/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OnnTap/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OnnTap/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OnnTap/OnnTap.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OnnTap/src/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OnnTap/src/CarManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OnnTap/src/CarManagerIMPL.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OnnTap/src/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Product/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Product/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Product/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Product/Product.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Product/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TEST/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TEST/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TEST/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TEST/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TEST/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TEST/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aaa/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aaa/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aaa/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aaa/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aaa/aaa.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aaa/out/production/aaa/ChamCong.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aaa/out/production/aaa/GiangVien.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aaa/out/production/aaa/NhanVien.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aaa/out/production/aaa/NhanVienFullTime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aaa/out/production/aaa/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aaa/src/ChamCong.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aaa/src/GiangVien.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aaa/src/NhanVien.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aaa/src/NhanVienFullTime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aaa/src/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap/baitap.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap/out/production/BaiTap/HangSanXuat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap/out/production/BaiTap/MayBay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap/out/production/BaiTap/PhuongTienDiChuyen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap/out/production/BaiTap/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap/out/production/BaiTap/XeDap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap/out/production/BaiTap/XeOto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap/src/HangSanXuat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap/src/MayBay.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap/src/PhuongTienDiChuyen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap/src/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap/src/XeDap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap/src/XeOto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hhh/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hhh/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hhh/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hhh/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hhh/hhh.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hhh/out/production/hhh/Nguoi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hhh/out/production/hhh/SVCDCQ.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hhh/out/production/hhh/SVCDN.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hhh/out/production/hhh/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hhh/out/production/hhh/tinhDiem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hhh/src/Nguoi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hhh/src/SVCDCQ.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hhh/src/SVCDN.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hhh/src/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hhh/src/tinhDiem.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2rR3gmzsi5UpoMN3vGmeHU0RsSU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="openDirectoriesWithSingleClick" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "D:/Java_Private_2024/Hibernate1/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "MavenSettings"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Java_Private_2024\Hibernate1\src\test" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c38f78c-1dc0-4d50-936f-6023b016ad94" name="Changes" comment="" />
+      <created>1736508174858</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1736508174858</updated>
+    </task>
+    <servers />
+  </component>
+</project>

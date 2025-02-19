@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="aaa/src"/>
+	<classpathentry kind="src" path="Bai_test2/src"/>
+	<classpathentry kind="src" path="BaiTap/src"/>
+	<classpathentry kind="src" path="BaiTap2/src"/>
+	<classpathentry kind="src" path="BTVN_Day_1/src"/>
+	<classpathentry kind="src" path="BTVN_Day_2/src"/>
+	<classpathentry kind="src" path="BTVN_DAY3/src"/>
+	<classpathentry kind="src" path="BTVN_Day4/src"/>
+	<classpathentry kind="src" path="BTVN_Day5/src"/>
+	<classpathentry kind="src" path="BTVN_Day6/src"/>
+	<classpathentry kind="src" path="hhh/src"/>
+	<classpathentry kind="src" path="Luyentap/src"/>
+	<classpathentry kind="src" path="Luyentap5/src"/>
+	<classpathentry kind="src" path="LuyenTap6/src"/>
+	<classpathentry kind="src" path="OnnTap/src"/>
+	<classpathentry kind="src" path="ONTAP/src"/>
+	<classpathentry kind="src" path="Product/src"/>
+	<classpathentry excluding="src/" kind="src" path="TEST"/>
+	<classpathentry kind="src" path="TEST/src"/>
+	<classpathentry kind="output" path="BTVN_DAY3/out/production/BTVN_DAY3"/>
+</classpath>
